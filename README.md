@@ -54,13 +54,13 @@ Xây dựng một project mini đơn giản để ứng dụng kiến thức ph�
 ## 1. Setup ReactJS App via Create React App
 
 ## 2. Add SCSS support
-`npm i --save-dev node-sass`
+```npm i --save-dev node-sass```
 
 ## 3. Add react router
-`npm i --save react-router-dom`
+```npm i --save react-router-dom```
 
 ## 4. Add UI lib
-`npm i --save reactstrap`
+```npm i --save reactstrap```
 
 # Tổ chức folder
 
@@ -91,7 +91,7 @@ src
 - Sử dụng kĩ thuật lazy load components.
 - Load theo features.
 
-```
+```js
 // App.js
 function App() {
   return (
@@ -115,7 +115,7 @@ function App() {
   - onChange: trigger hàm này với giá trị mới khi có thay đổi
   - onBlur: xác định khi nào thì control này bị touched
 
-```
+```js
 function InputField(props) {
   const {
     field,
