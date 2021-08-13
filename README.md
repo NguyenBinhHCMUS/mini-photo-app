@@ -64,6 +64,7 @@ npm i --save reactstrap
 
 # Tổ chức folder
 
+`
 src
 |__ assets
 |  |__ images
@@ -83,6 +84,7 @@ src
     |  |__ AddEditPage
     |__ photoSlice.js
     |__ index.js
+`
 
 # Tổ chức Routing
 
