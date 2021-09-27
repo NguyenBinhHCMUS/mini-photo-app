@@ -40,7 +40,7 @@ Xây dựng một project mini đơn giản để ứng dụng kiến thức ph�
 - UI lib: Reactstrap
 - Redux-Persist
 
-## Bạn sẽ học được gì từ project này
+## Kiến thức học được từ project này
 
 - Tổ chức folder, files trong thực tế.
 - Sử dụng Redux tốt hơn với Redux Toolkit.
@@ -153,3 +153,7 @@ RandomPhotoField
 Formik
 
 Yup
+
+
+# Preview
+
